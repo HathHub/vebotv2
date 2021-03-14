@@ -1,2 +1,0 @@
-# vebotv2
-yes
